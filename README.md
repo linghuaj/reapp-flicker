@@ -9,6 +9,8 @@
 ## set up
 ```shellscript
 sudo npm install -g reapp
+cd reapp-flicker
+npm install
 reapp run
 ```
 
