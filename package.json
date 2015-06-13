@@ -1,5 +1,5 @@
 {
-  "author": "Your Name Here",
+  "author": "captain anything",
   "name": "reapp-flicker",
   "repository": "",
   "description": "",
@@ -12,6 +12,11 @@
   },
   "dependencies": {
     "react": "0.13.2",
-    "reapp-kit": "^1.2.0"
+    "reapp-kit": "^1.2.0",
+    "superagent": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^0.22.1",
+    "eslint-plugin-react": "^2.5.0"
   }
 }
