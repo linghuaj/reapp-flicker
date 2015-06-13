@@ -1,7 +1,7 @@
 import { Reapp, React, View, Button, Input, Gallery} from 'reapp-kit'
 import Superagent from 'superagent';
 
-//DO NOT COPY THE KEY
+//DO NOT COPY MY KEY, Thanks :)
 const key = '415b05c962448acbef9d99d4ea530aa9';
 const base = `https://api.flickr.com/services/rest/?api_key=${key}&
 format=rest&format=json&nojsoncallback=1`;
