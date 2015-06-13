@@ -1,7 +1,7 @@
 #A Flicker React Client
 
 ## about
-- reactjs
+- reactjs (client react)
 - “reapp run” to serve our app with ES6 and hot reloading
 - Routing and requests packages
 - Building our app to Cordova
