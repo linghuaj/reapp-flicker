@@ -4,7 +4,7 @@
 - reactjs (client react)
 - “reapp run” to serve our app with ES6 and hot reloading
 - Routing and requests packages
-- Building our app to Cordova
+- Builds to Cordova(http://reapp.io/docs-builds.html)
 
 ## set up
 ```shellscript
