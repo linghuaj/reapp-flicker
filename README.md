@@ -40,6 +40,7 @@ ln -s ../build/ios www
 cordova prepare
 
 #Open the .xcodeproj in Xcode (it's in your platforms folder)
+#xcodeVersion 6.3.2 (6D2105)
 open ./platforms/ios/HelloCordova.xcodeproj
 ```
 
